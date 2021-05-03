@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@types/enzyme": "3.1.14",
+    "@types/enzyme": "3.10.8",
     "immutable": "3.8.1",
     "react": "16.5.2",
     "react-dom": "16.5.2",
